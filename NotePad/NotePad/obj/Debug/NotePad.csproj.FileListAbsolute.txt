@@ -1,0 +1,13 @@
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\NotePad\NotePad\bin\Debug\Notes.mdf
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\NotePad\NotePad\bin\Debug\Notes_log.ldf
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\NotePad\NotePad\obj\Debug\NotePad.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\NotePad\NotePad\obj\Debug\NotePad.Properties.Resources.resources
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\NotePad\NotePad\obj\Debug\NotePad.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\NotePad\NotePad\obj\Debug\NotePad.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\NotePad\NotePad\obj\Debug\NotePad.pdb
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\NotePad\NotePad\obj\Debug\NotePad.UserControl1.resources
+C:\Users\pc\Desktop\INFO2\S3\Langage C# et ASP .NET\Langage C#\NotePad\NotePad\obj\Debug\NotePad.Form1.resources
